@@ -1,0 +1,5 @@
+langchain[web]==0.0.147  # Specific version for WebBaseLoader
+langchain==0.0.147
+faiss-cpu
+flask
+ollama  # If necessary for Ollama support
