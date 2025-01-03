@@ -3,3 +3,9 @@ langchain==0.0.147
 faiss-cpu
 flask
 ollama  # If necessary for Ollama support
+django
+PyPDF2
+pytesseract
+Pillow
+pandas
+openpyxl
