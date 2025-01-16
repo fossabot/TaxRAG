@@ -1,4 +1,6 @@
 # taxRAG
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchenyuan99%2FTaxRAG.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchenyuan99%2FTaxRAG?ref=badge_shield)
+
 
 ## Overview
 **taxRAG** is a powerful tax assistant built using a Retrieval-Augmented Generation (RAG) pipeline, designed to help users generate accurate and insightful tax-related information. The project combines the power of web scraping, machine learning, and LangChain’s RAG framework to deliver real-time tax insights through an intelligent chatbot interface.
@@ -16,3 +18,6 @@ This project is ideal for tax professionals, businesses, and individuals looking
 To use this project, clone the repository as follows:
 ```bash
 git clone https://github.com/chenyuan99/taxRAG.git
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fchenyuan99%2FTaxRAG.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fchenyuan99%2FTaxRAG?ref=badge_large)
